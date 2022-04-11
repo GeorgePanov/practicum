@@ -5,7 +5,7 @@
 Обучение с учителем. Работа с несбалансированными данными.
 
 ## Описание данных
-Данные находятся в файле `/datasets/Churn.csv`. 
+Данные находятся в файле `/datasets/Churn.csv`. [Ссылка на kaggle](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling)
 ### Признаки
 - RowNumber — индекс строки в данных
 - CustomerId — уникальный идентификатор клиента
@@ -25,9 +25,6 @@
 - Exited — факт ухода клиента
 
 ------------
-
-https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling
-
 
 ## Навыки и инструменты
 - Pandas
